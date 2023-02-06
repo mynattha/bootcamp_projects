@@ -1,7 +1,7 @@
 # bootcamp_projects
 Data science bootcamp with ad Toy
 
-About project
+About projects
 
 - Intro to Web Scraping
   - Mini Project 01 - IMDB web scraping
